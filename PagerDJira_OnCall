@@ -1,6 +1,6 @@
 import requests
 import json
-from atlassian import Confluence
+from atlassian import PageDuty
 
 
 class PagerdutyClient:
